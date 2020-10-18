@@ -2,6 +2,8 @@
 
 Représentation d'une vue dynamique à l’intérieur d’un labyrinthe, dans lequel on peut se déplacer.
 
+Mode de vue : raycasting
+
 Flèches directionnelles : se déplacer  
 Shift gauche (maintenu) : courir
 
